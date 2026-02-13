@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>R Markdown on Michelle Salgado-Calquín - Perfil Académico</title><link>https://dashing-narwhal-7f0a4f.netlify.app/tags/r-markdown/</link><description>Recent content in R Markdown on Michelle Salgado-Calquín - Perfil Académico</description><generator>Hugo</generator><language>en</language><lastBuildDate>Tue, 01 Dec 2020 21:13:14 -0500</lastBuildDate><atom:link href="https://dashing-narwhal-7f0a4f.netlify.app/tags/r-markdown/index.xml" rel="self" type="application/rss+xml"/><item><title>Hello R Markdown</title><link>https://dashing-narwhal-7f0a4f.netlify.app/blog/2020-12-01-r-rmarkdown/</link><pubDate>Tue, 01 Dec 2020 21:13:14 -0500</pubDate><guid>https://dashing-narwhal-7f0a4f.netlify.app/blog/2020-12-01-r-rmarkdown/</guid><description>&lt;h1 id="r-markdown"&gt;R Markdown
+ &lt;a href="#r-markdown"&gt;&lt;/a&gt;
+&lt;/h1&gt;
+&lt;p&gt;This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see 
+&lt;a href="http://rmarkdown.rstudio.com" target="_blank" rel="noopener"&gt;http://rmarkdown.rstudio.com&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;You can embed an R code chunk like this:&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre tabindex="0" style="background-color:#f7f7f7;-moz-tab-size:4;-o-tab-size:4;tab-size:4;-webkit-text-size-adjust:none;"&gt;&lt;code class="language-r" data-lang="r"&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;&lt;span style="color:#6639ba"&gt;summary&lt;/span&gt;&lt;span style="color:#1f2328"&gt;(&lt;/span&gt;cars&lt;span style="color:#1f2328"&gt;)&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;&lt;span style="color:#57606a"&gt;## speed dist &lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;&lt;span style="color:#57606a"&gt;## Min. : 4.0 Min. : 2.00 &lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;&lt;span style="color:#57606a"&gt;## 1st Qu.:12.0 1st Qu.: 26.00 &lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;&lt;span style="color:#57606a"&gt;## Median :15.0 Median : 36.00 &lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;&lt;span style="color:#57606a"&gt;## Mean :15.4 Mean : 42.98 &lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;&lt;span style="color:#57606a"&gt;## 3rd Qu.:19.0 3rd Qu.: 56.00 &lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;&lt;span style="color:#57606a"&gt;## Max. :25.0 Max. :120.00&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;fit &lt;span style="color:#0550ae"&gt;&amp;lt;-&lt;/span&gt; &lt;span style="color:#6639ba"&gt;lm&lt;/span&gt;&lt;span style="color:#1f2328"&gt;(&lt;/span&gt;dist &lt;span style="color:#0550ae"&gt;~&lt;/span&gt; speed&lt;span style="color:#1f2328"&gt;,&lt;/span&gt; data &lt;span style="color:#0550ae"&gt;=&lt;/span&gt; cars&lt;span style="color:#1f2328"&gt;)&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;fit
+&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;&lt;span style="color:#57606a"&gt;## &lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;&lt;span style="color:#57606a"&gt;## Call:&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;&lt;span style="color:#57606a"&gt;## lm(formula = dist ~ speed, data = cars)&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;&lt;span style="color:#57606a"&gt;## &lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;&lt;span style="color:#57606a"&gt;## Coefficients:&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;&lt;span style="color:#57606a"&gt;## (Intercept) speed &lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;&lt;span style="color:#57606a"&gt;## -17.579 3.932&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+
+
+&lt;h1 id="including-plots"&gt;Including Plots
+ &lt;a href="#including-plots"&gt;&lt;/a&gt;
+&lt;/h1&gt;
+&lt;p&gt;You can also embed plots. See Figure &lt;a href="#fig:pie"&gt;1&lt;/a&gt; for example:&lt;/p&gt;</description></item></channel></rss>

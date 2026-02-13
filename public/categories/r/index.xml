@@ -1,0 +1,312 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>R on Michelle Salgado-Calquín - Perfil Académico</title><link>https://dashing-narwhal-7f0a4f.netlify.app/categories/r/</link><description>Recent content in R on Michelle Salgado-Calquín - Perfil Académico</description><generator>Hugo</generator><language>en</language><lastBuildDate>Sun, 03 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://dashing-narwhal-7f0a4f.netlify.app/categories/r/index.xml" rel="self" type="application/rss+xml"/><item><title>A first post</title><link>https://dashing-narwhal-7f0a4f.netlify.app/blog/spoonful-series/01-spoonful/</link><pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate><guid>https://dashing-narwhal-7f0a4f.netlify.app/blog/spoonful-series/01-spoonful/</guid><description>&lt;details class="f5 fw5 input-reset pa4 ba b--dotted bw1"&gt;
+ &lt;summary&gt;&lt;i class="fas fa-cat fa-lg pr2"&gt;&lt;/i&gt;Hi, I'm the here-bot cat!&lt;/summary&gt;
+ &lt;p&gt;Use me to find your way in your website.&lt;/p&gt;
+ 
+ &lt;dl class="f5 lh-copy"&gt;
+ &lt;dt class="fw7"&gt;Here I am:&lt;/dt&gt;
+ &lt;dd class="fw5 ml0"&gt;content/blog/spoonful-series/01-spoonful.md&lt;/dd&gt;
+ &lt;/dl&gt;
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ &lt;p&gt;&lt;i class="far fa-trash-alt pr2"&gt;&lt;/i&gt;To remove me, delete this line inside that file: &lt;code&gt;{{&amp;lt; here &amp;gt;}}&lt;/code&gt;&lt;/p&gt;
+ 
+ &lt;dl class="f5 lh-copy"&gt;
+ &lt;dt class="fw7"&gt;My content section is:&lt;/dt&gt;
+ &lt;dd class="fw5 ml0"&gt;blog&lt;/dd&gt;
+ &lt;/dl&gt;
+ 
+ &lt;dl class="f5 lh-copy"&gt;
+ &lt;dt class="fw7"&gt;My layout is:&lt;/dt&gt;
+ &lt;dd class="fw5 ml0"&gt;single-series&lt;/dd&gt;
+ &lt;/dl&gt;
+ 
+ 
+
+&lt;/details&gt;
+
+
+
+
+&lt;h2 id="does-this-work"&gt;does this work?
+ &lt;a href="#does-this-work"&gt;&lt;svg class="anchor-symbol" aria-hidden="true" height="26" width="26" viewBox="0 0 22 22" xmlns="http://www.w3.org/2000/svg"&gt;
+ &lt;path d="M0 0h24v24H0z" fill="currentColor"&gt;&lt;/path&gt;
+ &lt;path d="M3.9 12c0-1.71 1.39-3.1 3.1-3.1h4V7H7c-2.76.0-5 2.24-5 5s2.24 5 5 5h4v-1.9H7c-1.71.0-3.1-1.39-3.1-3.1zM8 13h8v-2H8v2zm9-6h-4v1.9h4c1.71.0 3.1 1.39 3.1 3.1s-1.39 3.1-3.1 3.1h-4V17h4c2.76.0 5-2.24 5-5s-2.24-5-5-5z"&gt;&lt;/path&gt;
+ &lt;/svg&gt;&lt;/a&gt;
+&lt;/h2&gt;
+
+
+
+
+&lt;h3 id="or-this"&gt;or this?
+ &lt;a href="#or-this"&gt;&lt;svg class="anchor-symbol" aria-hidden="true" height="26" width="26" viewBox="0 0 22 22" xmlns="http://www.w3.org/2000/svg"&gt;
+ &lt;path d="M0 0h24v24H0z" fill="currentColor"&gt;&lt;/path&gt;
+ &lt;path d="M3.9 12c0-1.71 1.39-3.1 3.1-3.1h4V7H7c-2.76.0-5 2.24-5 5s2.24 5 5 5h4v-1.9H7c-1.71.0-3.1-1.39-3.1-3.1zM8 13h8v-2H8v2zm9-6h-4v1.9h4c1.71.0 3.1 1.39 3.1 3.1s-1.39 3.1-3.1 3.1h-4V17h4c2.76.0 5-2.24 5-5s-2.24-5-5-5z"&gt;&lt;/path&gt;
+ &lt;/svg&gt;&lt;/a&gt;
+&lt;/h3&gt;
+&lt;hr&gt;
+&lt;p&gt;Let&amp;rsquo;s start.&lt;/p&gt;</description></item><item><title>A second post</title><link>https://dashing-narwhal-7f0a4f.netlify.app/blog/spoonful-series/02-spoonful/</link><pubDate>Sat, 02 Jan 2021 00:00:00 +0000</pubDate><guid>https://dashing-narwhal-7f0a4f.netlify.app/blog/spoonful-series/02-spoonful/</guid><description>&lt;details class="f5 fw5 input-reset pa4 ba b--dotted bw1"&gt;
+ &lt;summary&gt;&lt;i class="fas fa-cat fa-lg pr2"&gt;&lt;/i&gt;Hi, I'm the here-bot cat!&lt;/summary&gt;
+ &lt;p&gt;Use me to find your way in your website.&lt;/p&gt;
+ 
+ &lt;dl class="f5 lh-copy"&gt;
+ &lt;dt class="fw7"&gt;Here I am:&lt;/dt&gt;
+ &lt;dd class="fw5 ml0"&gt;content/blog/spoonful-series/02-spoonful/index.md&lt;/dd&gt;
+ &lt;/dl&gt;
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ &lt;p&gt;&lt;i class="far fa-trash-alt pr2"&gt;&lt;/i&gt;To remove me, delete this line inside that file: &lt;code&gt;{{&amp;lt; here &amp;gt;}}&lt;/code&gt;&lt;/p&gt;
+ 
+ &lt;dl class="f5 lh-copy"&gt;
+ &lt;dt class="fw7"&gt;My content section is:&lt;/dt&gt;
+ &lt;dd class="fw5 ml0"&gt;blog&lt;/dd&gt;
+ &lt;/dl&gt;
+ 
+ &lt;dl class="f5 lh-copy"&gt;
+ &lt;dt class="fw7"&gt;My layout is:&lt;/dt&gt;
+ &lt;dd class="fw5 ml0"&gt;single-series&lt;/dd&gt;
+ &lt;/dl&gt;
+ 
+ 
+ &lt;dl class="f5 lh-copy"&gt;
+ &lt;dt class="fw7"&gt;Images in this page bundle:&lt;/dt&gt;
+ 
+ &lt;dd class="fw5 ml0"&gt;/blog/spoonful-series/02-spoonful/sidebar-inverse.jpg&lt;/dd&gt;
+ 
+ &lt;/dl&gt;
+ 
+
+&lt;/details&gt;
+
+
+
+
+&lt;h2 id="part-2"&gt;part 2!
+ &lt;a href="#part-2"&gt;&lt;svg class="anchor-symbol" aria-hidden="true" height="26" width="26" viewBox="0 0 22 22" xmlns="http://www.w3.org/2000/svg"&gt;
+ &lt;path d="M0 0h24v24H0z" fill="currentColor"&gt;&lt;/path&gt;
+ &lt;path d="M3.9 12c0-1.71 1.39-3.1 3.1-3.1h4V7H7c-2.76.0-5 2.24-5 5s2.24 5 5 5h4v-1.9H7c-1.71.0-3.1-1.39-3.1-3.1zM8 13h8v-2H8v2zm9-6h-4v1.9h4c1.71.0 3.1 1.39 3.1 3.1s-1.39 3.1-3.1 3.1h-4V17h4c2.76.0 5-2.24 5-5s-2.24-5-5-5z"&gt;&lt;/path&gt;
+ &lt;/svg&gt;&lt;/a&gt;
+&lt;/h2&gt;
+
+
+
+
+&lt;h3 id="does-this-work"&gt;does this work?
+ &lt;a href="#does-this-work"&gt;&lt;svg class="anchor-symbol" aria-hidden="true" height="26" width="26" viewBox="0 0 22 22" xmlns="http://www.w3.org/2000/svg"&gt;
+ &lt;path d="M0 0h24v24H0z" fill="currentColor"&gt;&lt;/path&gt;
+ &lt;path d="M3.9 12c0-1.71 1.39-3.1 3.1-3.1h4V7H7c-2.76.0-5 2.24-5 5s2.24 5 5 5h4v-1.9H7c-1.71.0-3.1-1.39-3.1-3.1zM8 13h8v-2H8v2zm9-6h-4v1.9h4c1.71.0 3.1 1.39 3.1 3.1s-1.39 3.1-3.1 3.1h-4V17h4c2.76.0 5-2.24 5-5s-2.24-5-5-5z"&gt;&lt;/path&gt;
+ &lt;/svg&gt;&lt;/a&gt;
+&lt;/h3&gt;
+&lt;hr&gt;
+
+
+
+
+&lt;h2 id="now-for-some-very-cool-things"&gt;now for some very cool things
+ &lt;a href="#now-for-some-very-cool-things"&gt;&lt;svg class="anchor-symbol" aria-hidden="true" height="26" width="26" viewBox="0 0 22 22" xmlns="http://www.w3.org/2000/svg"&gt;
+ &lt;path d="M0 0h24v24H0z" fill="currentColor"&gt;&lt;/path&gt;
+ &lt;path d="M3.9 12c0-1.71 1.39-3.1 3.1-3.1h4V7H7c-2.76.0-5 2.24-5 5s2.24 5 5 5h4v-1.9H7c-1.71.0-3.1-1.39-3.1-3.1zM8 13h8v-2H8v2zm9-6h-4v1.9h4c1.71.0 3.1 1.39 3.1 3.1s-1.39 3.1-3.1 3.1h-4V17h4c2.76.0 5-2.24 5-5s-2.24-5-5-5z"&gt;&lt;/path&gt;
+ &lt;/svg&gt;&lt;/a&gt;
+&lt;/h2&gt;
+
+
+
+
+&lt;h2 id="more"&gt;more
+ &lt;a href="#more"&gt;&lt;svg class="anchor-symbol" aria-hidden="true" height="26" width="26" viewBox="0 0 22 22" xmlns="http://www.w3.org/2000/svg"&gt;
+ &lt;path d="M0 0h24v24H0z" fill="currentColor"&gt;&lt;/path&gt;
+ &lt;path d="M3.9 12c0-1.71 1.39-3.1 3.1-3.1h4V7H7c-2.76.0-5 2.24-5 5s2.24 5 5 5h4v-1.9H7c-1.71.0-3.1-1.39-3.1-3.1zM8 13h8v-2H8v2zm9-6h-4v1.9h4c1.71.0 3.1 1.39 3.1 3.1s-1.39 3.1-3.1 3.1h-4V17h4c2.76.0 5-2.24 5-5s-2.24-5-5-5z"&gt;&lt;/path&gt;
+ &lt;/svg&gt;&lt;/a&gt;
+&lt;/h2&gt;
+
+
+
+
+&lt;h2 id="get-ready"&gt;get ready!
+ &lt;a href="#get-ready"&gt;&lt;svg class="anchor-symbol" aria-hidden="true" height="26" width="26" viewBox="0 0 22 22" xmlns="http://www.w3.org/2000/svg"&gt;
+ &lt;path d="M0 0h24v24H0z" fill="currentColor"&gt;&lt;/path&gt;
+ &lt;path d="M3.9 12c0-1.71 1.39-3.1 3.1-3.1h4V7H7c-2.76.0-5 2.24-5 5s2.24 5 5 5h4v-1.9H7c-1.71.0-3.1-1.39-3.1-3.1zM8 13h8v-2H8v2zm9-6h-4v1.9h4c1.71.0 3.1 1.39 3.1 3.1s-1.39 3.1-3.1 3.1h-4V17h4c2.76.0 5-2.24 5-5s-2.24-5-5-5z"&gt;&lt;/path&gt;
+ &lt;/svg&gt;&lt;/a&gt;
+&lt;/h2&gt;</description></item><item><title>A third post</title><link>https://dashing-narwhal-7f0a4f.netlify.app/blog/spoonful-series/03-spoonful/</link><pubDate>Sun, 03 Jan 2021 00:00:00 +0000</pubDate><guid>https://dashing-narwhal-7f0a4f.netlify.app/blog/spoonful-series/03-spoonful/</guid><description>&lt;details class="f5 fw5 input-reset pa4 ba b--dotted bw1"&gt;
+ &lt;summary&gt;&lt;i class="fas fa-cat fa-lg pr2"&gt;&lt;/i&gt;Hi, I'm the here-bot cat!&lt;/summary&gt;
+ &lt;p&gt;Use me to find your way in your website.&lt;/p&gt;
+ 
+ &lt;dl class="f5 lh-copy"&gt;
+ &lt;dt class="fw7"&gt;Here I am:&lt;/dt&gt;
+ &lt;dd class="fw5 ml0"&gt;content/blog/spoonful-series/03-spoonful/index.markdown&lt;/dd&gt;
+ &lt;/dl&gt;
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ &lt;dl class="f5 lh-copy"&gt;
+ &lt;dt class="fw7"&gt;Here is my R Markdown source file:&lt;/dt&gt;
+ &lt;dd class="fw5 ml0"&gt;blog/spoonful-series/03-spoonful/index.Rmarkdown&lt;/dd&gt;
+ &lt;p class="i"&gt;&lt;i class="far fa-hand-point-up pr2"&gt;&lt;/i&gt;You'll want to edit this file, then re-knit to see the changes take effect in your site preview.&lt;/p&gt; 
+ &lt;/dl&gt;
+ 
+ 
+ &lt;p&gt;&lt;i class="far fa-trash-alt pr2"&gt;&lt;/i&gt;To remove me, delete this line inside that file: &lt;code&gt;{{&amp;lt; here &amp;gt;}}&lt;/code&gt;&lt;/p&gt;
+ 
+ &lt;dl class="f5 lh-copy"&gt;
+ &lt;dt class="fw7"&gt;My content section is:&lt;/dt&gt;
+ &lt;dd class="fw5 ml0"&gt;blog&lt;/dd&gt;
+ &lt;/dl&gt;
+ 
+ &lt;dl class="f5 lh-copy"&gt;
+ &lt;dt class="fw7"&gt;My layout is:&lt;/dt&gt;
+ &lt;dd class="fw5 ml0"&gt;single-series&lt;/dd&gt;
+ &lt;/dl&gt;
+ 
+ 
+ &lt;dl class="f5 lh-copy"&gt;
+ &lt;dt class="fw7"&gt;Images in this page bundle:&lt;/dt&gt;
+ 
+ &lt;dd class="fw5 ml0"&gt;/blog/spoonful-series/03-spoonful/featured-photo.jpg&lt;/dd&gt;
+ 
+ &lt;/dl&gt;
+ 
+
+&lt;/details&gt;
+
+
+
+
+&lt;h2 id="are-you-still-here"&gt;are you still here?
+ &lt;a href="#are-you-still-here"&gt;&lt;svg class="anchor-symbol" aria-hidden="true" height="26" width="26" viewBox="0 0 22 22" xmlns="http://www.w3.org/2000/svg"&gt;
+ &lt;path d="M0 0h24v24H0z" fill="currentColor"&gt;&lt;/path&gt;
+ &lt;path d="M3.9 12c0-1.71 1.39-3.1 3.1-3.1h4V7H7c-2.76.0-5 2.24-5 5s2.24 5 5 5h4v-1.9H7c-1.71.0-3.1-1.39-3.1-3.1zM8 13h8v-2H8v2zm9-6h-4v1.9h4c1.71.0 3.1 1.39 3.1 3.1s-1.39 3.1-3.1 3.1h-4V17h4c2.76.0 5-2.24 5-5s-2.24-5-5-5z"&gt;&lt;/path&gt;
+ &lt;/svg&gt;&lt;/a&gt;
+&lt;/h2&gt;
+
+
+
+
+&lt;h3 id="does-this-work"&gt;does this work?
+ &lt;a href="#does-this-work"&gt;&lt;svg class="anchor-symbol" aria-hidden="true" height="26" width="26" viewBox="0 0 22 22" xmlns="http://www.w3.org/2000/svg"&gt;
+ &lt;path d="M0 0h24v24H0z" fill="currentColor"&gt;&lt;/path&gt;
+ &lt;path d="M3.9 12c0-1.71 1.39-3.1 3.1-3.1h4V7H7c-2.76.0-5 2.24-5 5s2.24 5 5 5h4v-1.9H7c-1.71.0-3.1-1.39-3.1-3.1zM8 13h8v-2H8v2zm9-6h-4v1.9h4c1.71.0 3.1 1.39 3.1 3.1s-1.39 3.1-3.1 3.1h-4V17h4c2.76.0 5-2.24 5-5s-2.24-5-5-5z"&gt;&lt;/path&gt;
+ &lt;/svg&gt;&lt;/a&gt;
+&lt;/h3&gt;
+&lt;hr&gt;
+
+
+
+
+&lt;h2 id="final-stretch"&gt;final stretch!
+ &lt;a href="#final-stretch"&gt;&lt;svg class="anchor-symbol" aria-hidden="true" height="26" width="26" viewBox="0 0 22 22" xmlns="http://www.w3.org/2000/svg"&gt;
+ &lt;path d="M0 0h24v24H0z" fill="currentColor"&gt;&lt;/path&gt;
+ &lt;path d="M3.9 12c0-1.71 1.39-3.1 3.1-3.1h4V7H7c-2.76.0-5 2.24-5 5s2.24 5 5 5h4v-1.9H7c-1.71.0-3.1-1.39-3.1-3.1zM8 13h8v-2H8v2zm9-6h-4v1.9h4c1.71.0 3.1 1.39 3.1 3.1s-1.39 3.1-3.1 3.1h-4V17h4c2.76.0 5-2.24 5-5s-2.24-5-5-5z"&gt;&lt;/path&gt;
+ &lt;/svg&gt;&lt;/a&gt;
+&lt;/h2&gt;</description></item><item><title>Hello R Markdown</title><link>https://dashing-narwhal-7f0a4f.netlify.app/blog/2020-12-01-r-rmarkdown/</link><pubDate>Tue, 01 Dec 2020 21:13:14 -0500</pubDate><guid>https://dashing-narwhal-7f0a4f.netlify.app/blog/2020-12-01-r-rmarkdown/</guid><description>&lt;h1 id="r-markdown"&gt;R Markdown
+ &lt;a href="#r-markdown"&gt;&lt;/a&gt;
+&lt;/h1&gt;
+&lt;p&gt;This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see 
+&lt;a href="http://rmarkdown.rstudio.com" target="_blank" rel="noopener"&gt;http://rmarkdown.rstudio.com&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;You can embed an R code chunk like this:&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre tabindex="0" style="background-color:#f7f7f7;-moz-tab-size:4;-o-tab-size:4;tab-size:4;-webkit-text-size-adjust:none;"&gt;&lt;code class="language-r" data-lang="r"&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;&lt;span style="color:#6639ba"&gt;summary&lt;/span&gt;&lt;span style="color:#1f2328"&gt;(&lt;/span&gt;cars&lt;span style="color:#1f2328"&gt;)&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;&lt;span style="color:#57606a"&gt;## speed dist &lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;&lt;span style="color:#57606a"&gt;## Min. : 4.0 Min. : 2.00 &lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;&lt;span style="color:#57606a"&gt;## 1st Qu.:12.0 1st Qu.: 26.00 &lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;&lt;span style="color:#57606a"&gt;## Median :15.0 Median : 36.00 &lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;&lt;span style="color:#57606a"&gt;## Mean :15.4 Mean : 42.98 &lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;&lt;span style="color:#57606a"&gt;## 3rd Qu.:19.0 3rd Qu.: 56.00 &lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;&lt;span style="color:#57606a"&gt;## Max. :25.0 Max. :120.00&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;fit &lt;span style="color:#0550ae"&gt;&amp;lt;-&lt;/span&gt; &lt;span style="color:#6639ba"&gt;lm&lt;/span&gt;&lt;span style="color:#1f2328"&gt;(&lt;/span&gt;dist &lt;span style="color:#0550ae"&gt;~&lt;/span&gt; speed&lt;span style="color:#1f2328"&gt;,&lt;/span&gt; data &lt;span style="color:#0550ae"&gt;=&lt;/span&gt; cars&lt;span style="color:#1f2328"&gt;)&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;fit
+&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;&lt;span style="color:#57606a"&gt;## &lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;&lt;span style="color:#57606a"&gt;## Call:&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;&lt;span style="color:#57606a"&gt;## lm(formula = dist ~ speed, data = cars)&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;&lt;span style="color:#57606a"&gt;## &lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;&lt;span style="color:#57606a"&gt;## Coefficients:&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;&lt;span style="color:#57606a"&gt;## (Intercept) speed &lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;&lt;span style="color:#57606a"&gt;## -17.579 3.932&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+
+
+&lt;h1 id="including-plots"&gt;Including Plots
+ &lt;a href="#including-plots"&gt;&lt;/a&gt;
+&lt;/h1&gt;
+&lt;p&gt;You can also embed plots. See Figure &lt;a href="#fig:pie"&gt;1&lt;/a&gt; for example:&lt;/p&gt;</description></item><item><title>Tachyons for Style</title><link>https://dashing-narwhal-7f0a4f.netlify.app/project/giraffes/</link><pubDate>Wed, 03 Jul 2019 00:00:00 +0000</pubDate><guid>https://dashing-narwhal-7f0a4f.netlify.app/project/giraffes/</guid><description>&lt;p&gt;&lt;img src="tachyons-logo-script.png" alt="Tachyons Logo Script"&gt;&lt;/p&gt;
+
+
+
+
+&lt;h2 id="tachyons-is-a-design-system-that-allows-you-to-design-gorgeous-interfaces-in-the-browser-with-little-effort"&gt;
+&lt;a href="http://tachyons.io" target="_blank" rel="noopener"&gt;Tachyons&lt;/a&gt; is a design system that allows you to design gorgeous interfaces in the browser with little effort.
+ &lt;a href="#tachyons-is-a-design-system-that-allows-you-to-design-gorgeous-interfaces-in-the-browser-with-little-effort"&gt;&lt;svg class="anchor-symbol" aria-hidden="true" height="26" width="26" viewBox="0 0 22 22" xmlns="http://www.w3.org/2000/svg"&gt;
+ &lt;path d="M0 0h24v24H0z" fill="currentColor"&gt;&lt;/path&gt;
+ &lt;path d="M3.9 12c0-1.71 1.39-3.1 3.1-3.1h4V7H7c-2.76.0-5 2.24-5 5s2.24 5 5 5h4v-1.9H7c-1.71.0-3.1-1.39-3.1-3.1zM8 13h8v-2H8v2zm9-6h-4v1.9h4c1.71.0 3.1 1.39 3.1 3.1s-1.39 3.1-3.1 3.1h-4V17h4c2.76.0 5-2.24 5-5s-2.24-5-5-5z"&gt;&lt;/path&gt;
+ &lt;/svg&gt;&lt;/a&gt;
+&lt;/h2&gt;
+&lt;hr&gt;
+
+
+
+
+&lt;h3 id="because-speed"&gt;Because Speed
+ &lt;a href="#because-speed"&gt;&lt;svg class="anchor-symbol" aria-hidden="true" height="26" width="26" viewBox="0 0 22 22" xmlns="http://www.w3.org/2000/svg"&gt;
+ &lt;path d="M0 0h24v24H0z" fill="currentColor"&gt;&lt;/path&gt;
+ &lt;path d="M3.9 12c0-1.71 1.39-3.1 3.1-3.1h4V7H7c-2.76.0-5 2.24-5 5s2.24 5 5 5h4v-1.9H7c-1.71.0-3.1-1.39-3.1-3.1zM8 13h8v-2H8v2zm9-6h-4v1.9h4c1.71.0 3.1 1.39 3.1 3.1s-1.39 3.1-3.1 3.1h-4V17h4c2.76.0 5-2.24 5-5s-2.24-5-5-5z"&gt;&lt;/path&gt;
+ &lt;/svg&gt;&lt;/a&gt;
+&lt;/h3&gt;
+&lt;p&gt;Building this static site generator theme was the first time I used an Atomic
+(or Functional) CSS system like Tachyons. It&amp;rsquo;s a design system that provides
+very small (which means fast) CSS modules that you can use in your HTML. So,
+rather than writing every line of CSS, you apply the style you need as you write
+your HTML with easy to understand shorthand class names. This makes for a very
+powerful way to style, in the browser, or while building a static site like this
+one – since you can see every change with every save. &lt;strong&gt;It&amp;rsquo;s a joy to use.&lt;/strong&gt;&lt;/p&gt;</description></item><item><title>Palmer Penguins</title><link>https://dashing-narwhal-7f0a4f.netlify.app/project/penguins/</link><pubDate>Tue, 02 Jul 2019 00:00:00 +0000</pubDate><guid>https://dashing-narwhal-7f0a4f.netlify.app/project/penguins/</guid><description>&lt;h3 id="grid-is-the-very-first-css-module-created-specifically-to-solve-the-layout-problems-weve-all-been-hacking-our-way-around-for-as-long-as-weve-been-making-websites"&gt;“Grid is the very first CSS module created specifically to solve the layout problems we&amp;rsquo;ve all been hacking our way around for as long as we&amp;rsquo;ve been making websites.”
+ &lt;a href="#grid-is-the-very-first-css-module-created-specifically-to-solve-the-layout-problems-weve-all-been-hacking-our-way-around-for-as-long-as-weve-been-making-websites"&gt;&lt;svg class="anchor-symbol" aria-hidden="true" height="26" width="26" viewBox="0 0 22 22" xmlns="http://www.w3.org/2000/svg"&gt;
+ &lt;path d="M0 0h24v24H0z" fill="currentColor"&gt;&lt;/path&gt;
+ &lt;path d="M3.9 12c0-1.71 1.39-3.1 3.1-3.1h4V7H7c-2.76.0-5 2.24-5 5s2.24 5 5 5h4v-1.9H7c-1.71.0-3.1-1.39-3.1-3.1zM8 13h8v-2H8v2zm9-6h-4v1.9h4c1.71.0 3.1 1.39 3.1 3.1s-1.39 3.1-3.1 3.1h-4V17h4c2.76.0 5-2.24 5-5s-2.24-5-5-5z"&gt;&lt;/path&gt;
+ &lt;/svg&gt;&lt;/a&gt;
+&lt;/h3&gt;
+&lt;p&gt;&lt;em&gt;— 
+&lt;a href="http://chris.house/blog/a-complete-guide-css-grid-layout/" target="_blank" rel="noopener"&gt;Chris House, A Complete Guide to CSS Grid Layout&lt;/a&gt;&lt;/em&gt; &lt;sup id="fnref:1"&gt;&lt;a href="#fn:1" class="footnote-ref" role="doc-noteref"&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;Since I began building websites in Y2K, I&amp;rsquo;ve lost count how many times the phrase &amp;ldquo;&amp;hellip;there&amp;rsquo;s got to be a better way to do this&amp;rdquo; has passed my lips. Most times, while fighting with floats and widths of content and sidebars or just basically trying to get something beside something else without using a stupid &lt;code&gt;TABLE&lt;/code&gt;.&lt;/p&gt;</description></item><item><title>Bakeoff</title><link>https://dashing-narwhal-7f0a4f.netlify.app/project/bakeoff/</link><pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate><guid>https://dashing-narwhal-7f0a4f.netlify.app/project/bakeoff/</guid><description>&lt;p&gt;&lt;img src="formspree-logo.png" alt="Formspree Logo"&gt;&lt;/p&gt;
+
+
+
+
+&lt;h2 id="formspree-makes-it-easy-to-receive-submissions-from-html-forms-on-your-static-website"&gt;
+&lt;a href="https://formspree.io" target="_blank" rel="noopener"&gt;Formspree&lt;/a&gt; makes it easy to receive submissions from HTML forms on your static website.
+ &lt;a href="#formspree-makes-it-easy-to-receive-submissions-from-html-forms-on-your-static-website"&gt;&lt;svg class="anchor-symbol" aria-hidden="true" height="26" width="26" viewBox="0 0 22 22" xmlns="http://www.w3.org/2000/svg"&gt;
+ &lt;path d="M0 0h24v24H0z" fill="currentColor"&gt;&lt;/path&gt;
+ &lt;path d="M3.9 12c0-1.71 1.39-3.1 3.1-3.1h4V7H7c-2.76.0-5 2.24-5 5s2.24 5 5 5h4v-1.9H7c-1.71.0-3.1-1.39-3.1-3.1zM8 13h8v-2H8v2zm9-6h-4v1.9h4c1.71.0 3.1 1.39 3.1 3.1s-1.39 3.1-3.1 3.1h-4V17h4c2.76.0 5-2.24 5-5s-2.24-5-5-5z"&gt;&lt;/path&gt;
+ &lt;/svg&gt;&lt;/a&gt;
+&lt;/h2&gt;
+&lt;hr&gt;
+
+
+
+
+&lt;h3 id="functional-form"&gt;Functional Form
+ &lt;a href="#functional-form"&gt;&lt;svg class="anchor-symbol" aria-hidden="true" height="26" width="26" viewBox="0 0 22 22" xmlns="http://www.w3.org/2000/svg"&gt;
+ &lt;path d="M0 0h24v24H0z" fill="currentColor"&gt;&lt;/path&gt;
+ &lt;path d="M3.9 12c0-1.71 1.39-3.1 3.1-3.1h4V7H7c-2.76.0-5 2.24-5 5s2.24 5 5 5h4v-1.9H7c-1.71.0-3.1-1.39-3.1-3.1zM8 13h8v-2H8v2zm9-6h-4v1.9h4c1.71.0 3.1 1.39 3.1 3.1s-1.39 3.1-3.1 3.1h-4V17h4c2.76.0 5-2.24 5-5s-2.24-5-5-5z"&gt;&lt;/path&gt;
+ &lt;/svg&gt;&lt;/a&gt;
+&lt;/h3&gt;
+&lt;p&gt;This theme has a &lt;strong&gt;form-to-email&lt;/strong&gt; feature built in, thanks to the simple Formspree integration. All you need to activate the form is a valid recipient email address saved in the front matter of the form
+(&lt;code&gt;/content/forms/contact.md&lt;/code&gt;). Of course, the example shown below (&lt;code&gt;your@email.here&lt;/code&gt;) must not be used. Please use your actual email address.&lt;/p&gt;</description></item></channel></rss>
