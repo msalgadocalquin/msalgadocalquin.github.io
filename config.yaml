@@ -1,7 +1,7 @@
-baseURL: "https://dashing-narwhal-7f0a4f.netlify.app/"
+baseURL: "https://msalgadocalquin.github.io/"
 theme: hugo-apero
 languageCode: en
-title: "Michelle Salgado-Calquín - Perfil Académico"
+title: "Michelle Salgado-Calquín"
 author: "Michelle Salgado-Calquín"
 copyright: ''
 googleAnalytics: ''
@@ -45,7 +45,7 @@ params:
     reactions_enabled: '1'
     repo: apreshill/apero
     repo_id: '[REPO ID]='
-    theme: light
+    theme: "peach"
   headingFontFamily: sans-serif
   logo: /img/blogophonic-mark-dark.png
   mainSections:
@@ -62,18 +62,9 @@ params:
     - icon: github
       icon_pack: fab
       url: https://github.com/apreshill/apero
-    - icon: bluesky
-      icon_pack: fab
-      url: https://bsky.app/
     - icon: instagram
       icon_pack: fab
-      url: https://www.instagram.com/explore/tags/apero/
-    - icon: x-twitter
-      icon_pack: fab
-      url: https://twitter.com/hashtag/apéro
-    - icon: impactstory
-      icon_pack: ai
-      url: https://impactstory.org/u/0000-0002-8082-1890
+      url: https://www.instagram.com/data_archaeologist/
     - icon: orcid
       icon_pack: ai
       url: http://orcid.org/0000-0002-8082-1890
@@ -83,7 +74,7 @@ params:
   socialInFooter: true
   socialInHeader: false
   textFontFamily: sans-serif
-  theme: sky
+  theme: peach
   twitter: apreshill
   utterances:
     issue_term: pathname
@@ -109,7 +100,7 @@ menu:
       url: /contributors/
       weight: 3
   header:
-    - name: About
+    - name: About Me
       title: About Blogophonic
       url: /about/
       weight: 1
@@ -121,7 +112,7 @@ menu:
       title: Project Portfolio
       url: /project/
       weight: 3
-    - name: Talks
+    - name: Investigations
       title: Talks
       url: /talk/
       weight: 4
