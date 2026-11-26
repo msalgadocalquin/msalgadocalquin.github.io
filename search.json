@@ -1,0 +1,44 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
+  },
+  {
+    "objectID": "proyectos.html",
+    "href": "proyectos.html",
+    "title": "Proyectos",
+    "section": "",
+    "text": "Mapa interactivo y georreferenciación de sitios arqueológicos de la provincia de Curicó."
+  },
+  {
+    "objectID": "proyectos.html#maule-arqueológico",
+    "href": "proyectos.html#maule-arqueológico",
+    "title": "Proyectos",
+    "section": "",
+    "text": "Mapa interactivo y georreferenciación de sitios arqueológicos de la provincia de Curicó."
+  },
+  {
+    "objectID": "proyectos.html#soma-field",
+    "href": "proyectos.html#soma-field",
+    "title": "Proyectos",
+    "section": "SOMA Field",
+    "text": "SOMA Field\nAplicación de registro arqueológico en terreno."
+  },
+  {
+    "objectID": "publicaciones.html",
+    "href": "publicaciones.html",
+    "title": "Publicaciones y ponencias",
+    "section": "",
+    "text": "Listado en construcción."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "data_archaeologist",
+    "section": "",
+    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+  }
+]
