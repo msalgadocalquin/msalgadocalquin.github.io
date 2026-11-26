@@ -1,7 +1,16 @@
 ---
-title: "data_archaeologist"
+title: ""
+page-layout: full
 ---
 
-This is a Quarto website.
+::: {.hero}
+# Michelle Salgado
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+[Arqueóloga · Patrimonio cultural · Humanidades digitales]{.bajada}
+
+Trabajo en la investigación, documentación y puesta en valor del patrimonio
+arqueológico en Chile, cruzando museografía crítica, arqueología pública y
+tecnologías digitales aplicadas al registro y la difusión.
+
+[Ver proyectos](proyectos.qmd)  ·  [Sobre mí](about.qmd)
+:::
