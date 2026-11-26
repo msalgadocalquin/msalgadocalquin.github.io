@@ -1,0 +1,30 @@
+project:
+  type: website
+  output-dir: _site
+
+website:
+  title: "Michelle Salgado"
+  description: "Arqueología, patrimonio cultural y humanidades digitales"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Inicio
+      - href: about.qmd
+        text: Sobre mí
+      - href: proyectos.qmd
+        text: Proyectos
+      - href: publicaciones.qmd
+        text: Publicaciones
+    right:
+      - icon: github
+        href: https://github.com/msalgadocalquin
+      - icon: envelope
+        href: mailto:m.salgadocalquin@gmail.com
+  page-footer:
+    center: "© 2026 Michelle Salgado"
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: false

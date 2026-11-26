@@ -1,0 +1,11 @@
+---
+title: "Proyectos"
+---
+
+## Maule Arqueológico
+
+Mapa interactivo y georreferenciación de sitios arqueológicos de la provincia de Curicó.
+
+## SOMA Field
+
+Aplicación de registro arqueológico en terreno.
