@@ -1,82 +1,210 @@
 /*-- scss:defaults --*/
 
-@import url('https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,400;0,9..144,600;1,9..144,400&family=Nunito+Sans:wght@300;400;600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,400;0,9..144,600;0,9..144,700;1,9..144,400&family=Nunito+Sans:wght@300;400;600;700&display=swap');
 
-// Paleta
-$crema:     #FDFBF7;
-$tinta:     #2E2A26;
-$terracota: #A65A3A;
-$salvia:    #6B7355;
-$arena:     #E6DFD4;
+// ---- Paleta ----
+$crema:        #FCF9EA;
+$crema-hondo:  #F5EFD6;
+$arena:        #E8DFC0;
+$tinta:        #2E2328;
+$tinta-suave:  #6F6159;
+$rosa:         #E45978;
+$rosa-hondo:   #B02E52;
+$lima:         #C0E257;
+$lima-hondo:   #5F7F1A;
 
-$body-bg:    $crema;
-$body-color: $tinta;
-$link-color: $terracota;
-$link-hover-color: darken($terracota, 12%);
+// ---- Bootstrap ----
+$body-bg:           $crema;
+$body-color:        $tinta;
+$link-color:        $rosa-hondo;
+$link-hover-color:  $rosa;
+$border-color:      $arena;
 
-// Tipografía
-$font-family-sans-serif: "Nunito Sans", -apple-system, sans-serif;
-$headings-font-family: "Fraunces", Georgia, serif;
-$font-size-root: 17px;
-$headings-font-weight: 600;
+$font-family-sans-serif: "Nunito Sans", -apple-system, BlinkMacSystemFont, sans-serif;
+$headings-font-family:   "Fraunces", Georgia, serif;
+$font-size-root:         17px;
+$headings-font-weight:   700;
+$headings-color:         $tinta;
 
-// Barra de navegación
 $navbar-bg: $crema;
 $navbar-fg: $tinta;
-$navbar-hl: $terracota;
+$navbar-hl: $rosa-hondo;
 $footer-bg: $crema;
 
 /*-- scss:rules --*/
 
 body {
   line-height: 1.7;
+  -webkit-font-smoothing: antialiased;
 }
 
-h1, h2, h3 {
-  letter-spacing: -0.01em;
-  margin-top: 2rem;
+// ---- Títulos ----
+h1, h2, h3, h4 {
+  letter-spacing: -0.015em;
+  line-height: 1.2;
+}
+
+h2 {
+  margin-top: 2.8rem;
+  margin-bottom: 1rem;
+  padding-bottom: 0.4rem;
+  border-bottom: 2px solid $arena;
 }
 
 h1.title {
   font-size: 2.6rem;
-  margin-bottom: 1.5rem;
+  margin-bottom: 1.8rem;
 }
 
+// ---- Navegación ----
 .navbar {
   border-bottom: 1px solid $arena;
+  padding-top: 0.8rem;
+  padding-bottom: 0.8rem;
 }
 
 .navbar-brand {
   font-family: "Fraunces", Georgia, serif;
+  font-weight: 700;
+  font-size: 1.3rem;
+}
+
+.navbar .nav-link {
   font-weight: 600;
-  font-size: 1.25rem;
+  font-size: 0.95rem;
+}
+
+.navbar .nav-link:hover {
+  color: $rosa-hondo !important;
 }
 
 .nav-footer {
   border-top: 1px solid $arena;
   font-size: 0.85rem;
+  color: $tinta-suave;
+  padding: 2rem 0;
 }
 
+// ---- Enlaces ----
 a {
   text-decoration-thickness: 1px;
   text-underline-offset: 3px;
+  transition: color 0.15s ease;
 }
 
+// ---- Portada ----
 .hero {
-  max-width: 40rem;
-  margin: 4rem auto;
-  text-align: left;
+  max-width: 42rem;
+  margin: 5rem auto 4rem auto;
 }
 
 .hero h1 {
-  font-size: 3rem;
-  margin-bottom: 0.5rem;
+  font-size: 3.4rem;
+  margin-bottom: 0.6rem;
 }
 
 .hero .bajada {
+  display: block;
   font-family: "Fraunces", Georgia, serif;
   font-style: italic;
-  font-size: 1.3rem;
-  color: $salvia;
+  font-size: 1.35rem;
+  color: $rosa-hondo;
   margin-bottom: 2rem;
+}
+
+.hero p {
+  font-size: 1.1rem;
+  color: $tinta;
+}
+
+// ---- Texto destacado (marcador lima) ----
+.destacado {
+  background: linear-gradient(to bottom, transparent 55%, $lima 55%);
+  padding: 0 0.1em;
+}
+
+// ---- Etiquetas ----
+.etiqueta {
+  display: inline-block;
+  background-color: $lima;
+  color: $tinta;
+  font-size: 0.78rem;
+  font-weight: 700;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+  padding: 0.25rem 0.7rem;
+  border-radius: 999px;
+  margin-right: 0.4rem;
+  margin-bottom: 0.4rem;
+}
+
+// ---- Botón ----
+.boton {
+  display: inline-block;
+  background-color: $rosa;
+  color: $crema !important;
+  font-weight: 700;
+  font-size: 0.95rem;
+  padding: 0.7rem 1.5rem;
+  border-radius: 999px;
+  text-decoration: none !important;
+  transition: background-color 0.15s ease;
+}
+
+.boton:hover {
+  background-color: $rosa-hondo;
+}
+
+// ---- Tarjetas de proyecto ----
+.tarjetas {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+  gap: 1.5rem;
+  margin: 2rem 0;
+}
+
+.tarjeta {
+  background-color: $crema-hondo;
+  border: 1px solid $arena;
+  border-radius: 14px;
+  padding: 1.6rem;
+  transition: transform 0.18s ease, border-color 0.18s ease;
+}
+
+.tarjeta:hover {
+  transform: translateY(-3px);
+  border-color: $rosa;
+}
+
+.tarjeta h3 {
+  margin-top: 0;
+  font-size: 1.3rem;
+}
+
+.tarjeta p {
+  color: $tinta-suave;
+  font-size: 0.95rem;
+  margin-bottom: 0.8rem;
+}
+
+// ---- Citas ----
+blockquote {
+  border-left: 3px solid $lima;
+  padding-left: 1.2rem;
+  color: $tinta-suave;
+  font-style: italic;
+}
+
+// ---- Tablas ----
+table {
+  font-size: 0.95rem;
+}
+
+thead th {
+  border-bottom: 2px solid $arena !important;
+}
+
+// ---- Imágenes ----
+img {
+  border-radius: 10px;
 }
